@@ -18,7 +18,7 @@ namespace cSharp
            n=int.Parse(Console.ReadLine());
            mul=mul*n;
          }
-          Console.WriteLine("The Sum of abve numbers is"+"= "+mul);
+          Console.WriteLine("The multiplication of above numbers is"+"= "+mul);
          }
     }    
 
